@@ -1,0 +1,4 @@
+>>create schema pharmacy
+>> importar el sql
+
+>> iniciar nodemon app.js
